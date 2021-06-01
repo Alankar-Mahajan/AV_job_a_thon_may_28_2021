@@ -4,4 +4,4 @@ This is my code and approach for the job-a-thon. [Link](https://datahack.analyti
 
 You can find my detailed approach in Credit_Card_Lead_Prediction.docx
 
-My Private LB Rank: 75
+My Private LB Rank: 76
